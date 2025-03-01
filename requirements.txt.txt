@@ -1,0 +1,6 @@
+json,
+pyttsx3,
+requests,
+flask,
+flask_cors,
+google
